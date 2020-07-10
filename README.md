@@ -1,1 +1,1 @@
-This is a scratch pad for refreshing java skills i have grabbed from school and graduation.
+Some code on java design patterns.
